@@ -1,5 +1,15 @@
 const questions = [
     // Question 1
+ {
+    question: "ಪ್ರಶ್ನೆ: ವಿನೋದಕುಮಾರ್ ಅವರ ತಂದೆಯ ಹೆಸರು ಏನು?",
+    answers: [
+        { text: " ಖಾಜಪ್ಪ ", correct: false },
+        { text: " ಕಾಲಸಪ್ಪ ", correct: false },
+        { text: " ಯೆಲ್ಲಪ್ಪ ", correct: true },
+        { text: " ಯಾವುದು ಅಲ್ಲಾ ", correct: false }
+
+    ]
+ },
 {
     question: "ಪ್ರಶ್ನೆ: ಶ್ವಾಸಕೋಶಗಳ ಮುಖ್ಯ ಕಾರ್ಯವೇನು?",
     answers: [
